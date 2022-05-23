@@ -4,3 +4,4 @@ alias speedtest="curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/m
 
 # Quickly serve the current directory as HTTP
 alias serve='ruby -run -e httpd . -p 8000' # Or python -m SimpleHTTPServer :)
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/rebk/Documents/lewag-2022/GCP-json/lewagon-batch-862-54927df6e5be.json 
